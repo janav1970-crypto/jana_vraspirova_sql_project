@@ -192,4 +192,4 @@ Tuto otázku jsem opět počítala na datech pro **Českou Republiku**, protože
 * Není zde prakticky žádná souvislost mezi **nárůstem HDP a růstem mezd v následujícím roce (pouze 0,28)**.
 * Růst HDP má **střední vliv** na cenu potravin, mají tendenci růst společně. Nicméne je tu zanedbatelný vliv na růst **mezd ve stejném roce (0,06)**.
 * Na druhou stranu vliv na **cenu potravin v následujícím roce** je vyšší než u nás, i když pořád ještě **ne významně (0,31)**.
-* Zdá se tedy, že to, zda má HDP vliv na změny ve mzdách a cenách potravin se může v jednotlivých zemích velmi lišt.
+* Zdá se tedy, že to, zda má HDP vliv na změny ve mzdách a cenách potravin se může v jednotlivých zemích velmi lišit.
